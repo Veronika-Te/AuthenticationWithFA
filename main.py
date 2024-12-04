@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException, Request, Form, status, Response, Cookie, Depends
 from fastapi.responses import HTMLResponse, RedirectResponse
-from auth import register_user, authenticate_user
+from user_db import register_user, authenticate_user
 import uvicorn
 from fastapi.templating import Jinja2Templates
 from dotenv import load_dotenv
