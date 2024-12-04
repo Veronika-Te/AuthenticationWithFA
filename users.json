@@ -1,0 +1,18 @@
+{
+  "test": {
+    "username": "test",
+    "password": "$5$rounds=535000$YsDQuq5fvLJqNFij$EZo06piryl6p87KaLPKjWmNxR5LU6OsSZ0aMdiKjxE5"
+  },
+  "hobo": {
+    "username": "hobo",
+    "password": "$5$rounds=535000$3.q3rvx/RtDwgC3L$iV0ujkw/WlAyhlSPSNUOfutmH3eUZRd/fv1MF1u4NyD"
+  },
+  "Jane": {
+    "username": "Jane",
+    "password": "$5$rounds=535000$qr6cwrwOge164Hdv$GDKsbRAzTDcs.MLGQhOIuZpaypN5SVVMRKwZWjqujb3"
+  },
+  "Jacob": {
+    "username": "Jacob",
+    "password": "$5$rounds=535000$5WFvi8VyUz06tt1/$Dql3LD.VBiAZtVxPjcKSqTIufK8PIO97YuODEj8u0Q8"
+  }
+}

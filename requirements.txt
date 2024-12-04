@@ -1,0 +1,10 @@
+#Low-dependency template
+
+fastapi
+uvicorn
+Jinja2
+passlib
+python-multipart
+dotenv
+logging
+json
